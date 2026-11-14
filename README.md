@@ -1,4 +1,6 @@
 # ofdma-vs-noma
+- https://blog.csdn.net/weixin_33664951/article/details/161371874
+
 NOMA (Non-Orthogonal Multiple Access) and OFDMA (Orthogonal Frequency Division Multiple Access) are both wireless channel access technologies, but they separate and assign users to the spectrum in fundamentally different ways. [1] (https://www.hilarispublisher.com/open-access/performance-evaluation-of-energy-efficiency-and-spectral-efficiency-noma-vs-ofdma.pdf), [2] (https://www.rfwireless-world.com/terminology/noma-vs-ofdma)
 
 Core Differences
